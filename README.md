@@ -87,11 +87,7 @@ EventEase/
 ├── README.md
 └── EventEase_API_Collection.json (Postman collection)
 
-=========================
-⚙ Installation & Setup
-
-
----
+====================================================================
 
 # ⚙ Installation & Setup
 
